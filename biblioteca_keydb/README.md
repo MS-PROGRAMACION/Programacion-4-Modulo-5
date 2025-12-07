@@ -27,3 +27,4 @@ Acceso por defecto:
 ### 1. Clonar repositorio
 ### 2. Crear archivo .env
 ### 3. Instalar dependencias
+## ▶️ Ejecución del programa
